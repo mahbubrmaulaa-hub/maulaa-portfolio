@@ -23,7 +23,7 @@ repository               : "https://mahbubrmaulaa-hub.github.io/maulaa-portfolio
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_maulaa.png"
+  avatar           : "/images/profile_maulaa.png"
   name             : "Mahbub R Maulaa"
   pronouns         : # example: "she/her"  
   bio              : "Urban Data Analyst and Writer"
